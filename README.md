@@ -44,7 +44,7 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for JavaMOP you will find:
 * :white_check_mark: Source code 
-* :white_check_mark: [The original tool](SomeExecutableInTheRepo) (available)
+* :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/javamop/tree/master/bin/javamop.bat) (available)
 
 
 This repository was constructed by [Anshita Sayal](https://github.com/anshi1690) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). 
