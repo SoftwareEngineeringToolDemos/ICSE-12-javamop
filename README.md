@@ -42,8 +42,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [The Official Project Page, including source code](http://fsl.cs.illinois.edu/index.php/JavaMOP4)
 * [A Video of the Tool](http://fsl.cs.uiuc.edu/JavaMOPDemo.html.)
 
-In this repository, for ExampleTool you will find:
-* :x: Source code (not available)
+In this repository, for JavaMOP you will find:
+* :white_check_mark: Source code 
 * :white_check_mark: [The original tool](SomeExecutableInTheRepo) (available)
 
 
