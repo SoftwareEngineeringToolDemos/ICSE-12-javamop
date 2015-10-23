@@ -36,8 +36,7 @@ monitoring of your program. Refer to [docs/JavaMOPAgentUsage.md]
 JavaMOPAgent. 
 
 
-This repository contains information related to the tool JavaMOP presented ICSE '12: Proceedings of the 34th International Conference on Software Engineering. The tool was originally presented in [this paper](
-http://delivery.acm.org/10.1145/2340000/2337436/p1427-jin.pdf?ip=204.84.244.11&id=2337436&acc=ACTIVE%20SERVICE&key=6ABC8B4C00F6EE47%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=720358730&CFTOKEN=94210073&__acm__=1445374409_85af63f5627267a3018f8930d23b3f36).
+This repository contains information related to the tool JavaMOP presented ICSE '12: Proceedings of the 34th International Conference on Software Engineering. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2337436&dl=ACM&coll=DL&CFID=555221767&CFTOKEN=28958084).
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Official Project Page, including source code](http://fsl.cs.illinois.edu/index.php/JavaMOP4)
