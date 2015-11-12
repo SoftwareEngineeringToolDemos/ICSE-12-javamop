@@ -7,10 +7,10 @@
 4. Run v'agrant up' inside the newly created directory. Ubuntu 14.04 LTS machine will be created and Java 7 will be installed on the machine.
 5. After the machine is up, 
    * Use an SSH client such as [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) with the following credentials:
-   ** Hostname: 127.0.0.1
-   ** Port: 2222
-   ** Username: vagrant
-   ** Password: vagrant
+      * Hostname: 127.0.0.1
+      * Port: 2222
+      * Username: vagrant
+      * Password: vagrant
    * Use the GUI which shows up when 'vagrant up' command is run. When prompted, enter password : vagrant
 6. Java installation can be verified by running java -version command
   
