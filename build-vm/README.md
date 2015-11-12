@@ -6,11 +6,15 @@
 3. Copy the Vagrantfile from the tool repository available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/build-vm/Vagrantfile) into that directory.
 4. Run v'agrant up' inside the newly created directory. Ubuntu 14.04 LTS machine will be created and Java 7 will be installed on the machine.
 5. After the machine is up, 
-   * Use an SSH client such as [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) with the hostname 127.0.0.1 on port 2222. When prompted enter Username: vagrant and Password: vagrant
+   * Use an SSH client such as [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) with the following credentials:
+   ** Hostname: 127.0.0.1
+   ** Port: 2222
+   ** Username: vagrant
+   ** Password: vagrant
    * Use the GUI which shows up when 'vagrant up' command is run. When prompted, enter password : vagrant
 6. Java installation can be verified by running java -version command
   
 
 ### VM Credentials
-* Username: 'vagrant'
-* Password: 'vagrant'  
+* Username: vagrant
+* Password: vagrant 
