@@ -4,7 +4,7 @@
 2. Ensure that the 'vagrant' added to PATH environment variable.
 2. Create a new directory on the machine and navigate to this newly created directory.
 3. Copy the Vagrantfile from the tool repository available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/build-vm/Vagrantfile) into that directory.
-4. Run v'agrant up' inside the newly created directory. Ubuntu 14.04 LTS machine will be created and Java 7 will be installed on the machine.
+4. Run 'vagrant up' inside the newly created directory. Ubuntu 14.04 LTS machine will be created and Java 7 will be installed on the machine.
 5. After the machine is up, 
    * Use an SSH client such as [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) with the following credentials:
       * Hostname: 127.0.0.1
