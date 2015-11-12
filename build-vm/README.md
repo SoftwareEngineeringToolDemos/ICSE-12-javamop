@@ -14,7 +14,3 @@
    * Use the GUI which shows up when 'vagrant up' command is run. When prompted, enter password : vagrant
 6. Java installation can be verified by running java -version command
   
-
-### VM Credentials
-* Username: vagrant
-* Password: vagrant 
