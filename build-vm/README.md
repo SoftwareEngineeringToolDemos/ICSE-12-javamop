@@ -21,11 +21,11 @@
 * Please wait for the vagrant command to complete successfully before using the virtual machine.
 * Java installation can be verified on the virtual machine by running 'java -version' command. The following output is obtained:
 
-~~~
-java version "1.8.0_66"
-Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
-Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
-~~~
+  ~~~
+  java version "1.8.0_66"
+  Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
+  Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
+  ~~~
 
 ## References
 * https://www.vagrantup.com/
