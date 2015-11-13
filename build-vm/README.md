@@ -15,10 +15,14 @@
       * Password: vagrant
   
  
-Note : Java installation can be verified by running 'java -version' command
-  
-### References
+## Note
+* Please wait for the vagrant command to complete successfully before using the virtual machine.
+* Java installation can be verified on the virtual machine by running 'java -version' command.
+
+
+## References
 * https://www.vagrantup.com/
 * https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get
 * http://www.vagrantbox.es/
 * https://docs.vagrantup.com/v2/provisioning/shell.html
+* Vagrant VirtualBox Image used : https://atlas.hashicorp.com/box-cutter/boxes/ubuntu1404-desktop
