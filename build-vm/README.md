@@ -22,11 +22,9 @@
 
 
 `java version "1.8.0_66"
-
 Java(TM) SE Runtime Environment (build 1.8.0_66-b17)
+Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)`
 
-Java HotSpot(TM) 64-Bit Server VM (build 25.66-b17, mixed mode)
-`
 ## References
 * https://www.vagrantup.com/
 * https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get
