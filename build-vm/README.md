@@ -10,11 +10,12 @@
 8. After the machine is up, use one of the following methods to log in to the virtual machine:
    * Use the GUI which shows up when 'vagrant up' command is run. When prompted, enter password : vagrant
    * Use an SSH client such as PuTTY which can be downloaded from [here](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html). To SSH into the virtual machine, use the following credentials:
+   ~~~
       * Hostname: 127.0.0.1
       * Port: 2222
       * Username: vagrant
       * Password: vagrant
-  
+   ~~~
  
 ## Note
 * Please wait for the vagrant command to complete successfully before using the virtual machine.
