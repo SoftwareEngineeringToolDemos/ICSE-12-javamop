@@ -48,7 +48,7 @@ Source : https://github.com/runtimeverification/javamop/blob/master/docs/JavaMOP
 
 Commands: 
 
-	-> cd /home/adminuser/javamop/examples/agent/many
+	-> cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
 	
 	-> javac HasNext_1.java
 	
@@ -58,7 +58,7 @@ Commands:
 
 **SafeEnum(ERE) Property**
 
-	-> cd /home/adminuser/javamop/examples/agent/many
+	-> cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
 	
 	-> javac SafeEnum_1.java
 	
@@ -68,7 +68,7 @@ Commands:
 
 **SafeFile(CFG) Property**
 
-	-> cd /home/adminuser/javamop/examples/agent/many
+	-> cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
 	
 	-> javac SafeFile_1.java
 	
