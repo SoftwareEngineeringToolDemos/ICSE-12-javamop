@@ -36,7 +36,7 @@ rm -rf "/home/vagrant/Desktop/Download.php?filename=javamop-4.2.zip"
 
 #Setting PATH and CLASSPATH environment variables
 echo "export PATH=$PATH:/home/vagrant/RV-Monitor/bin:/home/vagrant/Documents/javamop1/javamop/bin/" >> ~/.bashrc
-echo "CLASSPATH=/home/vagrant/RV-Monitor/lib/rv-monitor.jar:/home/vagrant/RV-Monitor/lib/rv-monitor-rt.jar:/home/vagrant/RV-Monitor/lib/aspectjweaver.jar:." >> ~/.bashrc
+echo "export CLASSPATH=/home/vagrant/RV-Monitor/lib/rv-monitor.jar:/home/vagrant/RV-Monitor/lib/rv-monitor-rt.jar:/home/vagrant/RV-Monitor/lib/aspectjweaver.jar:." >> ~/.bashrc
 source ~/.bashrc
 export PATH=$PATH:/home/vagrant/RV-Monitor/bin:/home/vagrant/Documents/javamop1/javamop/bin/
 export CLASSPATH=/home/vagrant/RV-Monitor/lib/rv-monitor.jar:/home/vagrant/RV-Monitor/lib/rv-monitor-rt.jar:/home/vagrant/RV-Monitor/lib/aspectjweaver.jar:.
