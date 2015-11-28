@@ -16,10 +16,8 @@ cp /home/vagrant/Documents/javamopGit/vm-prerequisites/License.txt /home/vagrant
 cp /home/vagrant/Documents/javamopGit/vm-prerequisites/Readme.txt /home/vagrant/Desktop
 cp /home/vagrant/Documents/javamopGit/vm-prerequisites/javaMOPDemoVideo.html /home/vagrant/Desktop
 cp /home/vagrant/Documents/javamopGit/vm-prerequisites/DemoVideoWebpage.html /home/vagrant/Desktop
-cp /home/vagrant/Documents/javamopGit/vm-prerequisites/aspectjweaver.jar /home/vagrant/Documents
-cp /home/vagrant/Documents/javamopGit/vm-prerequisites/rv-monitor.jar /home/vagrant/Documents
-cp /home/vagrant/Documents/javamopGit/vm-prerequisites/rv-monitor-rt.jar /home/vagrant/Documents
 cp /home/vagrant/Documents/javamopGit/vm-prerequisites/JavaMOPAgent.jar /home/vagrant/Documents/javamop1/javamop/examples/agent/many
+mv /home/vagrant/Documents/javamopGit/vm-prerequisites/installRVMonitor.sh /home/vagrant/Documents
 #rm -rf "/home/vagrant/Documents/javamopGit"
 mkdir /home/vagrant/Documents/javamop1
 wget --directory-prefix="/home/vagrant/Desktop" http://fsl.cs.uiuc.edu/Download.php?filename=javamop-4.2.zip 
