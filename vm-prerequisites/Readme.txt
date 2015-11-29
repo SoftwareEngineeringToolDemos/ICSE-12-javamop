@@ -1,9 +1,9 @@
-*******************Starting the tool*******************************
-Tool automatically starts up on boot up in the form of  Gnome terminal.  Skip to verification of installation section if the tools starts up automatically. If it fails to start try the following ways:
+************************************************Starting the tool************************************************************
+Tool automatically starts up on boot up in the form of  Gnome terminal.  Skip to RV-Monitor installation section if the tools starts up automatically. If it fails to start try the following ways:
 
 To get the tool started open the terminal by typing Ctrl+Alt+T
 
-*******************RV-Monitor Installation**************************
+**********************************************RV-Monitor Installation********************************************************
 Rv-Monitor is one of the tool prerequisites and requires a product key for installation. To get the product key and install RV-Monitor follow the below stated steps:
 
 	1. Go to the following link for RV-Monitor official website https://www.runtimeverification.com/monitor/all/
@@ -32,7 +32,7 @@ Rv-Monitor is one of the tool prerequisites and requires a product key for insta
 	11. Run the command
 	source ~/.bashrc
 
-************************Verfiying tool installation******************
+*******************************************Verfiying tool installation*******************************************************
 To check if the tool has been installed correctly. Check the following:
 
 	1) rv-monitor -version (Requirement : version 1.3 or higher)
@@ -40,7 +40,7 @@ To check if the tool has been installed correctly. Check the following:
 	3) java -version (Requirement : version 1.7 or higher)
 	4) javamop (It should display command options and execute without error)
 
-************Demonstration Examples*******************************
+**********************************************Demonstration Examples*********************************************************
 Implementing Demonstration examples as stated in the paper(Section III):
 Source : https://github.com/runtimeverification/javamop/blob/master/docs/JavaMOPAgentUsage.md
 
@@ -48,31 +48,31 @@ Source : https://github.com/runtimeverification/javamop/blob/master/docs/JavaMOP
 
 Commands: 
 
-	-> cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
+	1. cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
 	
-	-> javac HasNext_1.java
+	2.  javac HasNext_1.java
 	
-	-> java -javaagent:JavaMOPAgent.jar HasNext_1
+	3.  java -javaagent:JavaMOPAgent.jar HasNext_1
 	Expected output : 
 				sum: 15
 
 **SafeEnum(ERE) Property**
 
-	-> cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
+	1. cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
 	
-	-> javac SafeEnum_1.java
+	2. javac SafeEnum_1.java
 	
-	-> java -javaagent:JavaMOPAgent.jar SafeEnum_1
+	3. java -javaagent:JavaMOPAgent.jar SafeEnum_1
 	Expected output : 
 				sum: 26
 
 **SafeFile(CFG) Property**
 
-	-> cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
+	1. cd /home/vagrant/Documents/javamop1/javamop/examples/agent/many
 	
-	-> javac SafeFile_1.java
+	2. javac SafeFile_1.java
 	
-	-> java -javaagent:JavaMOPAgent.jar SafeFile_1
+	3. java -javaagent:JavaMOPAgent.jar SafeFile_1
 	Expected output : 
 	begin
 	open
