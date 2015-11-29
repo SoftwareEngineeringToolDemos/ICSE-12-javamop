@@ -3,8 +3,6 @@
 Installing JavaMOP from Binaries
 Here are instructions for installing JavaMOP from its binary release zip archive. Users who checked out the source code should follow the instructions in https://github.com/runtimeverification/javamop/tree/master/src to build JavaMOP.
 
-
-
 Prerequisites
 JavaMOP requires JDK, AJC and RV-Monitor.
 1.JDK v.7 or higher; Check Java is installed properly: run  java -version  from a terminal.
