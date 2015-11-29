@@ -19,7 +19,7 @@
 
 ## Note
 * Please wait for the vagrant command to complete successfully before using the virtual machine.
-* [vm-prerequisites](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/tree/master/vm-prerequisites) folder in this repository contains scripts and files containing vm related information. Tasks Accomplished by Scripts are:
+* [vm-prerequisites](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/tree/master/vm-prerequisites) folder in this repository contains scripts and files containing vm related information. Tasks accomplished by Scripts are:
   * The vagrantfile script sets up VM with operating system Ubuntu 14.04 64-bit.
   * The [install.sh](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/vm-prerequisites/install.sh) script installs the following softwares:
     * [JavaMOP](http://fsl.cs.illinois.edu/index.php/JavaMOP4) tool
