@@ -1,19 +1,19 @@
-************************************************Starting the tool************************************************************
+***************************Starting the tool******************************
 Tool automatically starts up on boot up in the form of  Gnome terminal.  Skip to RV-Monitor installation section if the tools starts up automatically. If it fails to start try the following ways:
 
 To get the tool started open the terminal by typing Ctrl+Alt+T
 
-**********************************************RV-Monitor Installation********************************************************
+**********************RV-Monitor Installation**************************
 Rv-Monitor is one of the tool prerequisites and requires a product key for installation. The tool will not work as expected unless RV-Monitor is installed on the VM. 
 
-To get the product license key follow the below stated steps:
+To get the product license key follow the below stated steps. If you already have a key skip to the installation section.
 
 	1. Go to the following link for RV-Monitor official website https://www.runtimeverification.com/monitor/all/
 	
 	2. Click on Download link for Version 1.3.
 	
 	3. Enter name and email id. Click on Email key and Download.
-To install RV-Monitor do the following:
+For INSTALLATION of RV-Monitor do the following:
 	
 	1. Execute the following commands
 		cd /home/vagrant/Documents
