@@ -66,10 +66,5 @@ Terminal=false
 Categories=Application;
 ' >> /home/vagrant/.config/autostart/Terminal.desktop
 
-#Disable password login on idle vm
-echo "Disabling password login on returning from idle vm state"
-dconf write /org/gnome/desktop/screensaver/idle-activation-enabled false
-dconf write /org/gnome/desktop/screensaver/lock-enabled false
-
 #Rebooting VM for all the changes to take effect
 sudo reboot
