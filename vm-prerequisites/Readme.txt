@@ -35,7 +35,7 @@ For INSTALLATION of RV-Monitor do the following:
 	8. Run the command
 		source ~/.bashrc
 
-*******************************************Verfiying tool installation*******************************************************
+***********************Verfiying tool installation************************
 To check if the tool has been installed correctly. Check the following:
 
 	1) rv-monitor -version (Requirement : version 1.3 or higher)
@@ -43,7 +43,7 @@ To check if the tool has been installed correctly. Check the following:
 	3) java -version (Requirement : version 1.7 or higher)
 	4) javamop (It should display command options and execute without error)
 
-**********************************************Demonstration Examples*********************************************************
+*************************Demonstration Examples*************************
 Implementing Demonstration examples as stated in the paper(Section III):
 Source : https://github.com/runtimeverification/javamop/blob/master/docs/JavaMOPAgentUsage.md
 
