@@ -4,7 +4,7 @@
 2. Download and install Vagrant from [here](https://www.vagrantup.com/downloads.html) on your system. 
 3. Ensure that the path to installation directory of vagrant is added to PATH environment variable on the host machine.
 4. Create a new directory on the host machine and navigate to this newly created directory.
-5. Copy the Vagrantfile and install.sh from the tool repository available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/build-vm/Vagrantfile)and [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/vm-prerequisites/install.sh) into that directory.
+5. Copy the Vagrantfile and install.sh from the tool repository available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/build-vm/Vagrantfile) and [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/vm-prerequisites/install.sh) into that directory.
 6. Change the current directory to the newly created directory by using the 'cd' command. 
 7. Run 'vagrant up' command. Ubuntu 14.04 LTS machine will be created and Java 8 will be installed on the virtual machine.
 8. After the machine is up, use one of the following methods to log in to the virtual machine:
