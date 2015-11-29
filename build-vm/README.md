@@ -21,11 +21,11 @@
 * Please wait for the vagrant command to complete successfully before using the virtual machine.
 * Tasks Accomplished by Scripts:
   * The vagrantfile script sets up VM with operating system Ubuntu 14.04 64-bit.
-  * The install.sh script installs the following prerequisite softwares:
-    * The tool javamop
-    * JDK 8
-    * Aspectj Compiler 1.6
-  * The installRVMonitor.sh script is used to download and begin the installation of RV-Monitor software. To complete the installation a license key is required. The steps to obtain and complete the installation have been detailed in [Readme.txt](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/vm-prerequisites/Readme.txt) available on the VM's desktop.
+  * The install.sh script installs the following softwares:
+    * [JavaMOP](http://fsl.cs.illinois.edu/index.php/JavaMOP4) tool
+    * [Java 8] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (prerequisite software)
+    * [Aspectj Compiler 1.6](https://eclipse.org/aspectj/downloads.php) (prerequisite software)
+  * The installRVMonitor.sh script is used to download and begin the installation of [RV-Monitor](https://runtimeverification.com/monitor/download/?v=1.3) (prerequisite software). To complete the installation a license key is required. The steps to obtain and complete the installation have been detailed in [Readme.txt](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/vm-prerequisites/Readme.txt) available on the VM's desktop.
 
 ## References
 * https://www.vagrantup.com/
