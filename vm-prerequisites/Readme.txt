@@ -4,7 +4,7 @@ Tool automatically starts up on boot up in the form of  Gnome terminal.  Skip to
 To get the tool started open the terminal by typing Ctrl+Alt+T
 
 **********************************************RV-Monitor Installation********************************************************
-Rv-Monitor is one of the tool prerequisites and requires a product key for installation. To get the product key and install RV-Monitor follow the below stated steps:
+Rv-Monitor is one of the tool prerequisites and requires a product key for installation. The tool will not work as expected unless RV-Monitor is installed on the VM. To get the product key and install RV-Monitor follow the below stated steps:
 
 	1. Go to the following link for RV-Monitor official website https://www.runtimeverification.com/monitor/all/
 	
@@ -17,9 +17,9 @@ Rv-Monitor is one of the tool prerequisites and requires a product key for insta
 		chmod 755 installRVMonitor.sh
 		./installRVMonitor.sh
 	
-	5. On getting the prompt enter email address and key which user has received in the email->click on Next button
+	5. On getting the prompt enter email address and key which user has received in the email. Click on Next button
 	
-	6. Click on I accept the terms of this license agreement-> Click on Next button.
+	6. Click on 'I accept the terms of this license agreement'. Click on Next button.
 	
 	7. Keep the installation path as /home/vagrant/RV-Monitor. Do not change it. Click on Next button. Click on OK button 	for confirming installation directory.
 	
@@ -30,7 +30,7 @@ Rv-Monitor is one of the tool prerequisites and requires a product key for insta
 	10. PATH and CLASSPATH variables have already been updated. Just click on Done button.
 	
 	11. Run the command
-	source ~/.bashrc
+		source ~/.bashrc
 
 *******************************************Verfiying tool installation*******************************************************
 To check if the tool has been installed correctly. Check the following:
