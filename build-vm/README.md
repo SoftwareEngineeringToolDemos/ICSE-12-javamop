@@ -25,7 +25,7 @@
     * The tool javamop
     * JDK 8
     * Aspectj Compiler 1.6
-  * The installRVMonitor.sh script is used to download and begin the installation of RV-Monitor software. To complete the installation a license key is required. The steps to obtain and complete the installation have been detailed in [Readme.txt]() available on the VM's desktop.
+  * The installRVMonitor.sh script is used to download and begin the installation of RV-Monitor software. To complete the installation a license key is required. The steps to obtain and complete the installation have been detailed in [Readme.txt](https://github.com/SoftwareEngineeringToolDemos/ICSE-2012-javamop/blob/master/vm-prerequisites/Readme.txt) available on the VM's desktop.
 
 ## References
 * https://www.vagrantup.com/
