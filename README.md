@@ -46,6 +46,7 @@ In this repository, for JavaMOP you will find:
 * :white_check_mark: Source code (available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-12-javamop/tree/master/src/main/java/javamop))
 * :white_check_mark: Binary code (available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-12-javamop/tree/master/bin))
 * :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/javamop/tree/master/bin/javamop.bat) (available)
+* :white_check_mark: [Virtual machine containing tool](https://drive.google.com/a/ncsu.edu/folderview?id=0B3GbPov8x279UFNIOFJGN1hlUEk&usp=sharing&tid=0B3GbPov8x279UWFHSDNrRWZkems)
 
 
 This repository was constructed by [Anshita Sayal](https://github.com/anshi1690) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dongyun Jin, Patrick O'Neil Meredith, Choonghwan Lee and Grigore Roşu for their help in establishing this repository.
