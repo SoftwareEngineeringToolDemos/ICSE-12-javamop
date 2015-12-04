@@ -43,10 +43,10 @@ This repository _is not_ the original repository for this tool. Here are some li
 * [A Video of the Tool](http://fsl.cs.uiuc.edu/JavaMOPDemo.html)
 
 In this repository, for JavaMOP you will find:
-* :white_check_mark: Source code (available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-12-javamop/tree/master/src/main/java/javamop))
-* :white_check_mark: Binary code (available [here](https://github.com/SoftwareEngineeringToolDemos/ICSE-12-javamop/tree/master/bin))
+* :white_check_mark: [Source code](https://github.com/SoftwareEngineeringToolDemos/ICSE-12-javamop/tree/master/src/main/java/javamop))
+* :white_check_mark: [Binary code](https://github.com/SoftwareEngineeringToolDemos/ICSE-12-javamop/tree/master/bin))
 * :white_check_mark: [The original tool](https://github.com/SoftwareEngineeringToolDemos/javamop/tree/master/bin/javamop.bat) (available)
-* :white_check_mark: [Virtual machine containing tool](https://drive.google.com/a/ncsu.edu/folderview?id=0B3GbPov8x279UFNIOFJGN1hlUEk&usp=sharing&tid=0B3GbPov8x279UWFHSDNrRWZkems)
+* :white_check_mark: [Virtual machine containing tool](https://drive.google.com/a/ncsu.edu/file/d/0B5_JBhBzBcQuYl9KQzJuc1hWS3M/view)
 
 
 This repository was constructed by [Anshita Sayal](https://github.com/anshi1690) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dongyun Jin, Patrick O'Neil Meredith, Choonghwan Lee and Grigore Roşu for their help in establishing this repository.
